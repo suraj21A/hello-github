@@ -1,5 +1,5 @@
-# Hello GitHub Project 👋
-
+# Hello GitHub Project 
+## I CANT HELP  YOU  SORRY!
 This is a simple Java project connected to GitHub.  
 It prints some messages on the console.
 
@@ -13,4 +13,4 @@ It prints some messages on the console.
 2. Run `Main.java`
 
 ## 👤 Author
-- **Suraj Choudhary**
+- ** Suraj Choudhary **
